@@ -1,0 +1,3 @@
+An attempt to implement a webshop using only RESTful services that return JSON content. The frontend will be built in another language, reusing these services.
+
+Requires the Google App Engine runtime for Java.
